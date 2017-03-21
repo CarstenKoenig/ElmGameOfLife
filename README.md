@@ -4,4 +4,4 @@ the famous GameOfLife in Elm
 I could not withstand after seeing some pictures of a certain
 Spartakiade Session
 
-see [demo](./index.html)
+see [demo](https://carstenkoenig.github.io/ElmGameOfLife/)
